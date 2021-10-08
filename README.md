@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @razacode
-- 👀 I’m interested in learning about robotics and autonomous car
+- 👀 I’m interested in learning about Machine Learning and Deep Learning
 - 🌱 I’m currently stuying Master in artificial intellegence
-- 💞️ I’m looking to collaborate on robotics and computer vision projects
+- 💞️ I’m looking to collaborate on Deep Learning and computer vision projects
 - 📫 How to reach me contact me through my Lnkedin
       https://it.linkedin.com/in/wamiq-raza
 
