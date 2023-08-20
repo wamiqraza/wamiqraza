@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @razacode
 - 👀 I’m interested in learning about Machine Learning and Deep Learning
-- 🌱 I’m currently stuying Master in artificial intellegence
+- 🌱 Master in Artificial Intellegence
 - 💞️ I’m looking to collaborate on Deep Learning and computer vision projects
 - 📫 How to reach me contact me through my Lnkedin
       https://it.linkedin.com/in/wamiq-raza
+  https://www.buymeacoffee.com/wamiqraza
 
 
 <!---
