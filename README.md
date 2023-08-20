@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Deep Learning and computer vision projects
 - 📫 How to reach me contact me through my Lnkedin
       https://it.linkedin.com/in/wamiq-raza
-  https://www.buymeacoffee.com/wamiqraza
+  </br> https://www.buymeacoffee.com/wamiqraza
 
 
 <!---
