@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wamiqraza
-- 👀 I’m interested in learning about Machine Learning and Deep Learning
+- 👀 I’m interested in learning about AI, ML, DL and Generative AI
 - 🌱 Master in Artificial Intellegence
-- 💞️ I’m looking to collaborate on Deep Learning and computer vision projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me contact me through my Lnkedin
       https://it.linkedin.com/in/wamiq-raza
   </br> https://www.buymeacoffee.com/wamiqraza
